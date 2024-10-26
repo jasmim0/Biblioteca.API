@@ -1,0 +1,7 @@
+C:\Users\Alunos\Documents\diogo_vue\clara.24.10\Biblioteca.API\Biblioteca.API\obj\Debug\net6.0\Biblioteca.API.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\diogo_vue\clara.24.10\Biblioteca.API\Biblioteca.API\obj\Debug\net6.0\Biblioteca.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\diogo_vue\clara.24.10\Biblioteca.API\Biblioteca.API\obj\Debug\net6.0\Biblioteca.API.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\diogo_vue\clara.24.10\Biblioteca.API\Biblioteca.API\obj\Debug\net6.0\Biblioteca.API.AssemblyInfo.cs
+C:\Users\Alunos\Documents\diogo_vue\clara.24.10\Biblioteca.API\Biblioteca.API\obj\Debug\net6.0\Biblioteca.API.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\diogo_vue\clara.24.10\Biblioteca.API\Biblioteca.API\obj\Debug\net6.0\Biblioteca.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alunos\Documents\diogo_vue\clara.24.10\Biblioteca.API\Biblioteca.API\obj\Debug\net6.0\Biblioteca.API.MvcApplicationPartsAssemblyInfo.cache
